@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Dolphin!
+# 👋 Hey, I'm Singhaniya!
 
 ### 💻 Full Stack Developer | React.js | PHP | Laravel | WordPress
 
